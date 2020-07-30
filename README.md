@@ -1,3 +1,3 @@
-**Draft Serverless Architecture for Object Rekognition
+Draft Serverless Architecture for Object Rekognition
 
 ![](.//media/new.png)
